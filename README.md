@@ -12,7 +12,7 @@ Aspiring Data Engineer | Python · SQL · Building toward large-scale pipelines
 - Jupyter Notebooks
 
 ## Goal
-Land a Data Engineering role at a top tech company like Netflix
+Land a Data Engineering role
 
 ## Projects
 Coming soon...
